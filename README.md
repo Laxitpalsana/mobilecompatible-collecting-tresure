@@ -1,1 +1,1 @@
-# mobilecompatible-collecting-tresure
+# collection-tresure
